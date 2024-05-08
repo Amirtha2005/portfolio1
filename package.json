@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-card-flip": "^1.2.2"
+  },
+  "scripts": {
+    "build": "vite build"
   }
 }
